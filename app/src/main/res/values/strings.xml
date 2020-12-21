@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="score">Score</string>
+    <string name="play">Play</string>
+    <string name="save_result">Save result</string>
+    <string name="username">Username</string>
+    <string name="leaders">Leaders</string>
+</resources>
